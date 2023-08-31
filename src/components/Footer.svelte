@@ -27,19 +27,19 @@
         </h1>
     </div> -->
     <div class="grid place-items-center mx-auto max-w-[1200px] w-full">
-        <div
-            class=" w-fit relative aspect-square grid place-items-center p-2 rounded-full border-[1.5px] border-solid border-transparent hover:border-emerald-400 duration-200"
-        >
-            <!-- <div class="absolute inset-0 rotateSpin">
+        <a href="https://discord.gg/VRxj4gbjVQ" target="_blank">
+            <div
+                class=" w-fit relative aspect-square grid place-items-center p-2 rounded-full border-2 group border-solid border-transparent hover:border-emerald-400 duration-200"
+            >
+                <!-- <div class="absolute inset-0 rotateSpin">
                 <div
                     class="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 h-2 bg-emerald-400 aspect-square rounded-full "
                 />
             </div> -->
-            <a href="https://discord.gg/VRxj4gbjVQ" target="_blank">
                 <i
-                    class="fa-brands fa-discord text-8xl animate-pulse greenShadow text-green-400 hover:animate-none duration-200"
+                    class="fa-brands fa-discord text-8xl animate-pulse greenShadow text-emerald-400 group-hover:animate-none duration-200"
                 />
-            </a>
-        </div>
+            </div>
+        </a>
     </div>
 </footer>
