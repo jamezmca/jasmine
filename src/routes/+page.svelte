@@ -59,7 +59,7 @@
         id="mainPage"
         class="min-h-screen flex flex-col gap-4 sm:gap-6 md:gap-8"
     >
-        <div class=" mt-6 sm:mt-12 md:mt-16 py-4 text-white mr-auto ">
+        <div class=" mt-6 sm:mt-12 md:mt-16 py-4 text-white mr-auto">
             <h1 class="text-6xl sm:text-7xl md:text-8xl font-semibold">
                 Try <span class="poppins text-emerald-400">Jasmine</span>
             </h1>
@@ -136,7 +136,7 @@
                     </p>
                 </div>
                 <a
-                    href="#"
+                    href="https://discord.gg/VRxj4gbjVQ"
                     target="_blank"
                     class=" font-light mx-auto relative after:absolute after:h-full after:w-full after:top-0 after:right-full after:bg-emerald-500 after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
                 >
@@ -189,8 +189,8 @@
                         the need to any
                         <strong class="text-emerald-400"
                             >downloads or apps</strong
-                        >. Organize your plans in a simple Discord chat window - all you
-                        need is a
+                        >. Organize your plans in a simple Discord chat window -
+                        all you need is a
                         <strong class="text-emerald-400">Discord account</strong
                         >.
                     </p>
