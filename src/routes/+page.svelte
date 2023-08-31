@@ -83,14 +83,14 @@
             {/each}
         </div>
         <div class="mx-auto pt-10">
-            <button
+            <a href="https://discord.gg/VRxj4gbjVQ" target="_blank"
                 class="flex relative after:absolute after:bg-white after:bottom-0 after:right-full after:h-[1.5px] after:w-full hover:after:translate-x-full after:duration-200 overflow-hidden"
             >
                 <p class="poppins z-10">
                     Start <span class="poppins text-emerald-400">chatting</span>
                     today &rarr;
                 </p>
-            </button>
+            </a>
         </div>
     </section>
     <section class="py-20 lg:py-32 flex flex-col gap-24" id="projects">
@@ -295,14 +295,14 @@
             {/each}
         </div>
         <div class="mx-auto pt-10">
-            <button
+            <a href="https://discord.gg/VRxj4gbjVQ" target="_blank"
                 class="flex relative after:absolute after:bg-white after:bottom-0 after:right-full after:h-[1.5px] after:w-full hover:after:translate-x-full after:duration-200 overflow-hidden"
             >
                 <p class="poppins z-10">
                     Start <span class="poppins text-emerald-400">chatting</span>
                     today &rarr;
                 </p>
-            </button>
+            </a>
         </div>
 
         <!-- <p class="mx-auto">To learn how to interact with <span class="text-emerald-400">Jasmine</span>, private message her the following message:</p> -->
