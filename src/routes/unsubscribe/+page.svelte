@@ -10,7 +10,7 @@
         }
         try {
             const cancelURL =
-                "https://jasmine-api.onrender.com/api/cancel_subscription?user_id=" +
+                "https://jasmine-api.onrender.com/api/unsubscribe?user_id=" +
                 user_id.replaceAll("#", "%23");
 
             console.log(cancelURL);
