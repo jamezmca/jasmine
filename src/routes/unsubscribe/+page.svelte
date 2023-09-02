@@ -8,6 +8,7 @@
         if (cancelStatus === "cancelling" || !user_id) {
             return;
         }
+        cancelStatus = 'cancelling'
         try {
             const cancelURL =
                 "https://jasmine-api.onrender.com/api/unsubscribe?user_id=" +
