@@ -83,7 +83,9 @@
             {/each}
         </div>
         <div class="mx-auto pt-10">
-            <a href="https://discord.gg/VRxj4gbjVQ" target="_blank"
+            <a
+                href="https://discord.gg/VRxj4gbjVQ"
+                target="_blank"
                 class="flex relative after:absolute after:bg-white after:bottom-0 after:right-full after:h-[1.5px] after:w-full hover:after:translate-x-full after:duration-200 overflow-hidden"
             >
                 <p class="poppins z-10">
@@ -103,12 +105,14 @@
             </h3>
         </div>
         <a
-            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            href="https://discord.gg/VRxj4gbjVQ"
             target="_blank"
             class="mx-auto px-4 py-2 rounded-full border border-solid border-emerald-950 flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-emerald-600 duration-200"
         >
-            <p>Watch the video</p>
-            <i class="fa-regular fa-circle-play" />
+            <p>Join the Discord</p>
+            <i class="fa-brands fa-discord" />
+
+            <!-- <i class="fa-regular fa-circle-play" /> -->
         </a>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <div
@@ -295,7 +299,9 @@
             {/each}
         </div>
         <div class="mx-auto pt-10">
-            <a href="https://discord.gg/VRxj4gbjVQ" target="_blank"
+            <a
+                href="https://discord.gg/VRxj4gbjVQ"
+                target="_blank"
                 class="flex relative after:absolute after:bg-white after:bottom-0 after:right-full after:h-[1.5px] after:w-full hover:after:translate-x-full after:duration-200 overflow-hidden"
             >
                 <p class="poppins z-10">

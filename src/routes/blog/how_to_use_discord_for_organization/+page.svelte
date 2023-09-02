@@ -14,11 +14,11 @@
         href="https://www.discord.com"
         target="_blank">Discord app.</a
     >
-    No more diaries, phone apps, lost pieces of paper, whiteboard messages, or
-    self-addressed emails made with good intention, but little success; if you
-    need a reminder to remember where you've written your lists, then it's
-    probably an unsustationable mode of organization. <br /><br />Fortunately,
-    for current and prospective Discord users, that's all about to change...
+    No more diaries, phone apps, lost pieces of paper, whiteboard messages, or self-addressed
+    emails made with good intention, but little success; if you need a reminder to
+    remember where you've written your lists, then it's probably an unsustationable
+    mode of organization. <br /><br />Fortunately, for current and prospective
+    Discord users, that's all about to change...
 </p>
 
 <h2 class="font-semibold text-2xl sm:text-3xl md:text-4xl">
@@ -47,23 +47,23 @@
     <a class="bg-emerald-950 text-emerald-400" target="_blank" href=""
         >Try Jasmine Discord channel</a
     >
-    where you can engage Jasmine, in addition to receiving any type of support
-    or assistance as you do so. Typing
+    where you can engage Jasmine, in addition to receiving any type of support or
+    assistance as you do so. Typing
     <span
         class=" text-amber-400 p-0.5 px-1 bg-black border border-solid border-amber-800 rounded-md"
         >/start</span
     >
-    in the general channel will send Jasmine the intrustion to personally
-    message you, and begin your organizational conversations; it is within your
-    private messages with Jasmine that she will assist you. <br /><br />Once you
-    have a private message window open with Jasmine, this is where the magic
-    happens. <br /><br /> Jasmine understands 4 primary commands with which you
-    can achieve just about any organizational feat; these commands are used in
-    sentences with a define structure to manage your tasks. It should also be
-    noted that all tasks are categorized into a list -> so Jasmine is
-    effectively managing all of your lists with each of their respective list
-    items. The keywords denominated by the primary create, read, update and
-    delete functionalities are<br /><br />
+    in the general channel will send Jasmine the intrustion to personally message
+    you, and begin your organizational conversations; it is within your private messages
+    with Jasmine that she will assist you. <br /><br />Once you have a private
+    message window open with Jasmine, this is where the magic happens. <br /><br
+    />
+    Jasmine understands 4 primary commands with which you can achieve just about
+    any organizational feat; these commands are used in sentences with a define
+    structure to manage your tasks. It should also be noted that all tasks are
+    categorized into a list -> so Jasmine is effectively managing all of your
+    lists with each of their respective list items. The keywords denominated by
+    the primary create, read, update and delete functionalities are<br /><br />
     <span
         class=" text-amber-400 p-0.5 px-1 bg-black border border-solid border-amber-800 rounded-md"
         >summary, add, update, delete</span
@@ -83,6 +83,15 @@
 <h2 class="font-semibold text-2xl sm:text-3xl md:text-4xl">
     Good luck and enjoy!
 </h2>
+
+<a
+    href="/blog"
+    class="flex mx-auto relative after:absolute mb-10 after:bg-white after:bottom-0 after:right-full after:h-[1.5px] after:w-full hover:after:translate-x-full after:duration-200 overflow-hidden"
+>
+    <p class="poppins z-10">
+        Back to <span class="poppins text-emerald-400">blogs</span>
+    </p>
+</a>
 
 <svelte:head>
     <title
