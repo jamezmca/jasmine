@@ -2,7 +2,7 @@
     let bioItems = [
         { name: "Discord personal assistant", description: "", icon: "" },
         {
-            name: "Interact with our interdimensional goddess via SQL based commands",
+            name: "Manage your tasks and lists with a simple command language",
             description: "",
             icon: "",
         },
