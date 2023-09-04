@@ -8,6 +8,9 @@
 </script>
 
 <Header {y} {innerHeight}/>
+<section class=" uppercase font-medium bg-black border-b border-solid border-emerald-400 p-2 flex items-center justify-center">
+    <p>First <span class="text-green-400">100</span> users get <span class="text-green-400">50%</span> more free tier</p>
+</section>
 <slot />
 <Footer />
 
